@@ -2,7 +2,7 @@
 
 - This repository contains the following files:
 
-  1.Sum_from_file:
+  1.Somma_from_file: (italian language comments)
     - main.c
     - makefile
     - file1
